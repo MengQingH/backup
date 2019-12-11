@@ -1,0 +1,142 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TestRandom",
+            "request": "launch",
+            "mainClass": "TestRandom"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "algorithm.sort.Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - 继承",
+            "request": "launch",
+            "mainClass": "类.继承"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - 反射",
+            "request": "launch",
+            "mainClass": "常用类.反射.反射"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Calendar类",
+            "request": "launch",
+            "mainClass": "常用类.Date相关类.Calendar类"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Date1",
+            "request": "launch",
+            "mainClass": "常用类.Date相关类.Date1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test1",
+            "request": "launch",
+            "mainClass": "Test1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateTest",
+            "request": "launch",
+            "mainClass": "常用类.Date相关类.DateTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateTest",
+            "request": "launch",
+            "mainClass": "DateTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Date",
+            "request": "launch",
+            "mainClass": "Date"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Date类",
+            "request": "launch",
+            "mainClass": "Date类"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - 代码块",
+            "request": "launch",
+            "mainClass": "基本程序.代码块"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - 访问数据库",
+            "request": "launch",
+            "mainClass": "常用类.JDBC.访问数据库"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DateFormat类",
+            "request": "launch",
+            "mainClass": "常用类.Date相关类.DateFormat类"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Date",
+            "request": "launch",
+            "mainClass": "常用类.Date相关类.Date"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - 测试",
+            "request": "launch",
+            "mainClass": "测试"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Date类",
+            "request": "launch",
+            "mainClass": "常用类.Date相关类.Date类"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Test",
+            "request": "launch",
+            "mainClass": "Test"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - lambda表达式",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "基本程序.lambda表达式",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - 结果集",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "常用类.JDBC.结果集",
+            "args": ""
+        },
+        {
+            "type": "node",
+            "request": "launch",
+            "name": "启动程序",
+            "program": "${workspaceFolder}/Javascript\\test.js"
+        }
+    ]
+}
